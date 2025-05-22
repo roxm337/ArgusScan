@@ -2,7 +2,7 @@
 **The All-Seeing Camera Scanner**  
 *Named after Argus Panoptes - The Hundred-Eyed Giant of Greek Mythology*
 
-![ArgusScan Terminal Demo](https://i.imgur.com/EXAMPLE.png)
+![ArgusScan Terminal Demo](https://raw.githubusercontent.com/roxm337/ArgusScan/refs/heads/main/Screenshot%202025-05-22%20at%2010.38.37.png)
 
 ```bash
               +-------------------+
